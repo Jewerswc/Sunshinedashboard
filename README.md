@@ -1,8 +1,8 @@
-# Top Gear Travel Challenge
+# Travel Challenge Generator
 
 ## Introduction
 
-The Top Gear Travel Challenge is a Python application that generates travel challenges in the style of the popular TV show "Top Gear." The app creates scenarios such as "Car vs Train to France," leveraging the capabilities of OpenAI's GPT (ChatGPT) and the Google Maps API to simulate and plan these challenges.
+The Travel Challenge is a Python application that generates travel challenges in the style of Top Gear. The app creates scenarios such as "Car vs Train to France," leveraging the capabilities of OpenAI's GPT (ChatGPT) and the Google Maps API to simulate and plan these challenges.
 
 ## Table of Contents
 
